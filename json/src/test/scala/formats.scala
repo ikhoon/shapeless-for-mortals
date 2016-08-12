@@ -1,4 +1,4 @@
-// Copyright (C) 2015 Sam Halliday
+// Copyright (C) 2015 - 2016 Sam Halliday
 // License: http://www.apache.org/licenses/LICENSE-2.0
 package s4m.exercise3.formats
 
